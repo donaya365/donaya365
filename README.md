@@ -27,6 +27,30 @@
 
 #
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/solid/2C4F7C" height="40" alt="solid logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+</div>
+
 <h1> <img src="https://raw.githubusercontent.com/donaya365/donaya365/main/resources/profile.png" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/telegram_icon.png" width="80px">](https://t.me/fromhell26) [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/github_icon.png" width="80px">](https://github.com/donaya365) [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/insta_icon.png" width="80px">](https://instagram.com/call-me.kill)
