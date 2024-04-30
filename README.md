@@ -27,9 +27,9 @@
 
 #
 
-<h1> <img src="https://raw.githubusercontent.com/Anon907/Anon907/main/resources/profile.png" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="https://raw.githubusercontent.com/donaya365/donaya365/main/resources/profile.png" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/telegram_icon.png" width="80px">](https://t.me/Anon907) [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/github_icon.png" width="80px">](https://github.com/Anon907) [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/insta_icon.png" width="80px">](https://instagram.com/izahidi_)
+[<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/telegram_icon.png" width="80px">](https://t.me/fromhell26) [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/github_icon.png" width="80px">](https://github.com/Anon907) [<img src="https://raw.githubusercontent.com/Samidaites2/Samidaites2/main/resources/insta_icon.png" width="80px">](https://instagram.com/call-me.kill)
 
 [<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>](https://github.com/Samidaites2)
 [<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>](https://github.com/Samidaites2)
